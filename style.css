@@ -1,0 +1,56 @@
+/* STYLE SECTIONING TAGS */
+body {
+ background-color:#fae1dd; 
+}
+.nav {
+  border: none;
+  outline: none;
+  padding: 10px 16px;
+  background-color: lightcoral
+;
+}
+/* STYLE TEXT */
+.images {  
+    width: 200px; 
+    float: left; 
+    margin-right: 10px; 
+  } 
+  div { 
+    float: left; 
+    width: calc(100% - 300px - 5px);
+  } 
+h2 {
+  color:saddlebrown ;
+}
+
+p { 
+color:saddlebrown;
+  font-family: 'Edu SA Beginner', cursive;
+}
+#books-2022 {
+  text-align: center;
+  font-size: 60;
+  
+}
+/* STYLE IMAGES */
+
+#books {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  padding-left: 25%;
+  
+}
+   #me {
+     text-decoration: underline overline #83502e;
+     border: none;
+  outline: none;
+  padding: 10px 16px;
+  background-color: lightcoral
+   }
+}
+
+table {
+margin:50px;
+}
